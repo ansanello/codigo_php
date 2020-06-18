@@ -11,7 +11,7 @@ $msg = 0;
     </head>
 
     <body>
-        <?php if($msg=='enviado'): ?>
+        <?php if($msg==enviado): ?>
             <h1>Mensagem enviada, agradecemos o seu contato!</h1>
         <fieldset>
             <legend><h3>Formulário de Contato</h3></legend>
